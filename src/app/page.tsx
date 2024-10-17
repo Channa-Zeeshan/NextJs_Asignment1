@@ -1,6 +1,6 @@
 
 import React from "react";
-import Navbar from "./components/Navbar/page"
+
 export default function Home() {
   return (
      <section className="flex flex-col justify-around">
